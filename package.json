@@ -1,6 +1,6 @@
 {
   "name": "react-native-activity-heatmap",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "React native component for a simple & customizable LeetCode-style activity heatmap.",
   "main": "./lib/module/index.js",
   "types": "./lib/typescript/src/index.d.ts",
