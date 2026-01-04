@@ -1,3 +1,2 @@
-export function multiply(a: number, b: number): number {
-  return a * b;
-}
+export { ActivityHeatmap } from './ActivityHeatmap';
+export type { HeatmapActivity, HeatmapCell, CellColors } from './types';
